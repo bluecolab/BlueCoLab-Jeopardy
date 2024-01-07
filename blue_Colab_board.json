@@ -5,29 +5,28 @@
             "questions":[
                 {
                     "value":100,
-                   "question":"This is the checmical compound of water.",
-                    "answer": "What is H₂O",
-                    "daily-double": true
+                   "question":"This is the chemical compound of water.",
+                    "answer": "What is H₂O?"
                 },
                 {
                     "value":200,
-                   "question":"This is the freezing point of water",
+                   "question":"This is the freezing point of water.",
                     "answer": "What is 32° Fahrenheit?"
                 },
                 {
                     "value":300,
-                   "question":"This percentage of water is saline water on Earth.",
-                    "answer": "What is 97%"
+                   "question":"This is the percentage of saline water on planet Earth.",
+                    "answer": "What is 97%?"
                 },
                 {
                     "value":400,
-                   "question":"This is the type of water in our rivers and streams",
+                   "question":"This type of water is in our rivers and streams.",
                     "answer": "What is fresh water?"
                 },
                 {
                     "value": 500,
-                    "question": "This is the coldest liquid water on the planet which is colder than ice.",
-                    "answer": "What is the Antarctic bottom water, which reaches 30° Fahrenheit?"
+                    "question": "This is the coldest liquid water on the planet.",
+                    "answer": "What is the bottom of the Antartic Ocean?"
                 }
             ]
         },
@@ -36,7 +35,7 @@
             "questions":[
                 {
                     "value":100,
-                   "question":"He is the director of The Blue CoLab",
+                   "question":"He is the director of The Blue CoLab.",
                     "answer": "Who is Professor John Cronin?"
                 },
                 {
@@ -51,13 +50,13 @@
                 },
                 {
                     "value":400,
-                   "question":"This water station was named after a 19th century mathematician who was named first woman programmer.",
+                   "question":"This water station was named after this 19th century mathematician who was named the first woman programmer.",
                     "answer": "Who is Ada Lovelace?"
                 },
                 {
                     "value": 500,
                     "question": "This is the principal that The Blue Co-Lab is committed to",
-                    "answer": "What is, \"The human right to clean water requires the right-to-know water is clean?\""
+                    "answer": "What is, \"The human right to clean water requires the right-to-know their water is clean?\""
                 }
             ]
         },
@@ -102,7 +101,7 @@
                 },
                 {
                     "value":200,
-                   "question":"This penguin is known to be the smallest of the penguins living on the Antarctica continent.",
+                   "question":"This penguin is known to be the smallest of the penguins living on the continent of Antarctica.",
                     "answer": "What are Adélie Penguins?"
                 },
                 {
@@ -112,13 +111,13 @@
                 },
                 {
                     "value":400,
-                   "question":"This dolphin is named after their distinct hour-glass shaped bodies and have white markings on their sides.",
-                    "answer": "What is the Hourglass Dolphin?"
+                   "question":"These dolphins are named after their distinct hour-glass shaped bodies and have white markings on their sides.",
+                    "answer": "What are Hourglass Dolphins?"
                 },
                 {
                     "value": 500,
-                    "question": "This 200 million year old species of fish migrates up the Hudson every spring.",
-                    "answer": "What is Atlantic Sturgeon?"
+                    "question": "These 200 million year old species of fish migrates up the Hudson every spring.",
+                    "answer": "What are Atlantic Sturgeon?"
                 }
             ]
         },
@@ -154,4 +153,3 @@
         }
     ]
 }
-   
