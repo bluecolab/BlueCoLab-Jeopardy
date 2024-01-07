@@ -1,7 +1,3 @@
-const obj = document.createElement("audio");
-console.log(obj.volume); // 1
-obj.volume = 0.50;
-
 $(function(){
     $('#game-load-modal').modal('show');
     chooseTheme = Math.random() < 0.5;
@@ -84,6 +80,7 @@ $(function(){
         // gets a random question using math random. 
         var randomCategoryIndex = Math.floor(Math.random() * currentBoard.length);
         var randomQuestionIndex = Math.floor(Math.random() * currentBoard[randomCategoryIndex].questions.length);
+        console.log(randomCategoryIndex, randomQuestionIndex)
         
         // Check if the selected question is a daily double
         var selectedQuestion = currentBoard[randomCategoryIndex].questions[randomQuestionIndex];
@@ -92,7 +89,7 @@ $(function(){
         if (isDailyDouble) {
             var dailyDoubleSound = new Audio('./sounds/daily_double.mp3');
             dailyDoubleSound.play();
-            $('#daily-double-modal-title').empty().text(category.name + ' - $' + value);
+            $('#daily-double-modal-title').empty().text(currentBoard[randomCategoryIndex].name + ' - $' + selectedQuestion.value);
             $('#daily-double-wager-input').val('');
             $('#daily-double-modal').modal('show');
         }

@@ -61,6 +61,7 @@ $(function(){
         // Check if the selected question is a daily double
         var selectedQuestion = currentBoard[randomCategoryIndex].questions[randomQuestionIndex];
         var isDailyDouble = 'daily-double' in selectedQuestion ? selectedQuestion['daily-double'] : false;
+        console.log("Randomly Selected Indices:", randomCategoryIndex, randomQuestionIndex);
 
         if (isDailyDouble) {
             var dailyDoubleSound = new Audio('./sounds/daily_double.mp3');
