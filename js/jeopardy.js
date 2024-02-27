@@ -10,37 +10,41 @@ $(function () {
         // openingTheme.play();
     }
     $('#game-load-input-button').click(function () {
-        var file = $('#input-file').prop('files')[0];
-        if ($('#input-file').val() !== '') {
-            var reader = new FileReader();
-            reader.readAsText(file);
-            reader.onload = function () {
-                var fileText = reader.result;
-                var data = $.parseJSON(fileText);
+        var filePath = 'https://raw.githubusercontent.com/Lammy789/BlueCoLab-Jeopardy/main/blue_Colab_board.json';
+    
+        // Fetch the file content
+        fetch(filePath)
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                return response.json(); // assuming the file is JSON
+            })
+            .then(data => {
+                // Process the file content
                 jsonData = data;
                 currentBoard = jsonData[rounds[currentRound]];
                 $("#player-1-name").empty().text(playerTranslation[1]);
                 $("#player-2-name").empty().text(playerTranslation[2]);
                 $("#player-3-name").empty().text(playerTranslation[3]);
-
+    
                 // gets a random question using math random. Maybe make this a separate function?
                 randomCategoryIndex = Math.floor(Math.random() * currentBoard.length);
                 randomQuestionIndex = Math.floor(Math.random() * currentBoard[randomCategoryIndex].questions.length);
                 console.log(`The daily double is at ${randomCategoryIndex} ${randomQuestionIndex}`);
-
+    
                 loadBoard();
                 openingTheme.pause();
                 openingTheme.currentTime = 0;
                 var boardFillSound = new Audio('./sounds/board_fill.mp3');
                 boardFillSound.play();
                 $('#game-load-modal').modal('hide');
-            }
-            reader.onerror = function (e) {
-                $('#game-load-error').text("Error: " + e).show();
-            };
-
-        }
+            })
+            .catch(error => {
+                console.error('There was a problem fetching or parsing the file:', error);
+            });
     });
+    
     $('#kill-music-button').click(function () {
         openingTheme.pause();
         openingTheme.currentTime = 0;
