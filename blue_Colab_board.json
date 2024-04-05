@@ -150,6 +150,36 @@
                     "answer": "When was 1609?"
                 }
             ]
+        },
+        {
+            "name":"Water Policies",
+            "questions":[
+                {
+                    "value":100,
+                   "question":"This is the Agency that sets safety standards for Drinking water.",
+                    "answer": "What is the EPA?"
+                },
+                {
+                    "value":200,
+                   "question":"This is the date that all community public water supliers are required to issue an Annual Water Report",
+                    "answer": "when is May 31st?"
+                },
+                {
+                    "value":300,
+                   "question":"This law was put in place to protect public health by regulating the quality of drinking water in the United States",
+                    "answer": "what is the Safe Drinking Water Act (SDWA) of 1974?"
+                },
+                {
+                    "value":400,
+                   "question":"This is what the list of contaminants are called.",
+                    "answer": "What is the Contaiminant Candidiate List?"
+                },
+                {
+                    "value": 500,
+                    "question": "This report must be provided by every public water system or community water supplier, it provides the consumer information about their drinking water.",
+                    "answer": "What is a Consumer Confidence Report?"
+                }
+            ]
         }
     ]
 }
