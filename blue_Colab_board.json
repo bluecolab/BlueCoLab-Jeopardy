@@ -5,28 +5,28 @@
             "questions":[
                 {
                     "value":100,
-                   "question":"This is the chemical compound of water.",
-                    "answer": "What is H₂O?"
+                   "question":"What is a safe Ph level for drinking water?",
+                    "answer": "What is 7.0?"
                 },
                 {
                     "value":200,
-                   "question":"This is the freezing point of water.",
-                    "answer": "What is 32° Fahrenheit?"
+                   "question":"This is the boiling point of water.",
+                    "answer": "What is 212° Fahrenheit?"
                 },
                 {
                     "value":300,
-                   "question":"This is the percentage of saline water on planet Earth.",
-                    "answer": "What is 97%?"
+                   "question":"This is the percentage of Freshwater on planet Earth.",
+                    "answer": "What is 3%?"
                 },
                 {
                     "value":400,
-                   "question":"This type of water is in our rivers and streams.",
-                    "answer": "What is fresh water?"
+                   "question":"This is the percentage of fresh water that covers the earth's surface",
+                    "answer": "What is 71%?"
                 },
                 {
                     "value": 500,
-                    "question": "This is the coldest liquid water on the planet.",
-                    "answer": "What is the bottom of the Antartic Ocean?"
+                    "question": "This is the name of the largest freshwater lake by surface area in the world?",
+                    "answer": "What is lake Superior?"
                 }
             ]
         },
@@ -96,28 +96,28 @@
             "questions":[
                 {
                     "value":100,
-                   "question":"This animal lives in ponds and uses their teeth to build dams",
-                    "answer": "What are beavers?"
+                   "question":"This is the world's largest predatory fish that is distinguished for its powerful jaws and triangular teeth.",
+                    "answer": "What is the Great White Shark?"
                 },
                 {
                     "value":200,
-                   "question":"This penguin is known to be the smallest of the penguins living on the continent of Antarctica.",
-                    "answer": "What are Adélie Penguins?"
+                   "question":"This type of whale is known for its white color and a distinctive \"melon\" on its head, which is used for echolocation.",
+                    "answer": "What are Beluga Whales?"
                 },
                 {
                     "value":300,
-                   "question":"These whales are known to create and sing songs that can be heard up to 20 minutes away",
-                    "answer": "What are Humpback Whales?"
+                   "question":"This blue colored fish has a long, sword-like upper jaw which they use to slash and stun fish, making them easier to catch",
+                    "answer": "What are Marlins?"
                 },
                 {
                     "value":400,
-                   "question":"These dolphins are named after their distinct hour-glass shaped bodies and have white markings on their sides.",
-                    "answer": "What are Hourglass Dolphins?"
+                   "question":"These seals are named after their curved black patch on their backs which resembles a harp.",
+                    "answer": "What are Harp Seals?"
                 },
                 {
                     "value": 500,
-                    "question": "These 200 million year old species of fish migrates up the Hudson every spring.",
-                    "answer": "What are Atlantic Sturgeon?"
+                    "question": "These 270 million years old shark was best-known for its circular, toothy saw",
+                    "answer": "What were Helicoprion?"
                 }
             ]
         },
@@ -136,13 +136,13 @@
                 },
                 {
                     "value":300,
-                   "question":"This is where the Hudson River drains.",
-                    "answer": "Where is The Atlantic Ocean?"
+                   "question":"The Hudson River was the eastern outlet for this Canal.",
+                    "answer": "What is the Erie Canal?"
                 },
                 {
                     "value":400,
-                   "question":"This is who the Hudson River is named after",
-                    "answer": "Who is Henry Hudson?"
+                   "question":"This is amount of fish species found in the Hudson River.",
+                    "answer": "What is 220 species?"
                 },
                 {
                     "value": 500,
@@ -172,7 +172,7 @@
                 {
                     "value":400,
                    "question":"This is what the list of contaminants are called.",
-                    "answer": "What is the Contaiminant Candidiate List?"
+                    "answer": "What is the Contaminant Candidate List?"
                 },
                 {
                     "value": 500,
