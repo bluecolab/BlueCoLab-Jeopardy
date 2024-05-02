@@ -157,7 +157,7 @@
                 {
                     "value":100,
                    "question":"This is the Agency that sets safety standards for Drinking water.",
-                    "answer": "What is the EPA?"
+                    "answer": "What is the Environmental Protection Agency (EPA)?"
                 },
                 {
                     "value":200,
@@ -171,8 +171,8 @@
                 },
                 {
                     "value":400,
-                   "question":"This is what the list of contaminants are called.",
-                    "answer": "What is the Contaminant Candidate List?"
+                   "question":"This is what the enforceable standard of the highest level of a contaminant allowed in drinking water is called.",
+                    "answer": "What is the Maximum Contaminant Level (MCL)?"
                 },
                 {
                     "value": 500,
