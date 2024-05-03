@@ -35,7 +35,7 @@
             "questions":[
                 {
                     "value":100,
-                   "question":"He is the director of The Blue CoLab.",
+                   "question":"He is the founder of The Blue CoLab.",
                     "answer": "Who is Professor John Cronin?"
                 },
                 {
@@ -45,13 +45,13 @@
                 },
                 {
                     "value":300,
-                   "question":"These two numbers are the total amount of credits that The Blue CoLab is offering in the fall and spring semesters.",
-                    "answer": "what is 1 or 3 credits?"
+                   "question":"This is the year that the Blue Co-Lab was found",
+                    "answer": "when was 2018?"
                 },
                 {
                     "value":400,
-                   "question":"This water station was named after this 19th century mathematician who was named the first woman programmer.",
-                    "answer": "Who is Ada Lovelace?"
+                   "question":"This is the school that the blue Colab is held.",
+                    "answer": "What is Seidenburg School of CSIS?"
                 },
                 {
                     "value": 500,
@@ -70,18 +70,18 @@
                 },
                 {
                     "value":200,
-                   "question":"This computer scientist who broke the Nazi enigma code is the namesake of one of our water monitoring systems in Choate Pond.",
-                    "answer": "Who is Alan Turing?"
-                },
-                {
-                    "value":300,
                    "question":"This was the year that Choate Pond was rebuilt.",
                     "answer": "When was 2017?"
                 },
                 {
+                    "value":300,
+                   "question":"This computer scientist who broke the Nazi enigma code is the namesake of one of our water monitoring systems in Choate Pond.",
+                    "answer": "Who was Alan Turing?"
+                },
+                {
                     "value":400,
-                   "question":"Since this year The Blue Co-Lab has been monitoring Choate Pond.",
-                    "answer": "When was 2018?"
+                   "question":"This water station was named after this 19th century mathematician who was named the first woman programmer.",
+                    "answer": "Who was Ada Lovelace"
                 },
                 {
                     "value": 500,
