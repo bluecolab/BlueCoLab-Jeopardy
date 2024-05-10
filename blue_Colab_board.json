@@ -5,7 +5,7 @@
             "questions":[
                 {
                     "value":100,
-                   "question":"What is a safe Ph level for drinking water?",
+                   "question":"What is a safe pH level for drinking water?",
                     "answer": "What is 7.0?"
                 },
                 {
@@ -35,12 +35,12 @@
             "questions":[
                 {
                     "value":100,
-                   "question":"He is the founder of The Blue CoLab.",
+                   "question":"They are the founder of The Blue CoLab.",
                     "answer": "Who is Professor John Cronin?"
                 },
                 {
                     "value":200,
-                   "question":"She is the Technical Operations Manager of The Blue CoLab",
+                   "question":"They are the Technical Operations Manager of The Blue CoLab",
                     "answer": "Who is Professor Leanne Keeley?"
                 },
                 {
