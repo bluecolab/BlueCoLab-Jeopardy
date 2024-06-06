@@ -5,7 +5,7 @@
             "questions":[
                 {
                     "value":100,
-                   "question":"What is a safe Ph level for drinking water?",
+                   "question":"What is a safe pH level for drinking water?",
                     "answer": "What is 7.0?"
                 },
                 {
@@ -31,16 +31,16 @@
             ]
         },
         {
-            "name":"Blue Co-Lab",
+            "name":"Blue CoLab",
             "questions":[
                 {
                     "value":100,
-                   "question":"He is the founder of The Blue CoLab.",
+                   "question":"They are the founder of The Blue CoLab.",
                     "answer": "Who is Professor John Cronin?"
                 },
                 {
                     "value":200,
-                   "question":"She is the Technical Operations Manager of The Blue CoLab",
+                   "question":"They are the Technical Operations Manager of The Blue CoLab",
                     "answer": "Who is Professor Leanne Keeley?"
                 },
                 {
@@ -50,12 +50,12 @@
                 },
                 {
                     "value":400,
-                   "question":"This is the school that the blue Colab is held.",
-                    "answer": "What is Seidenburg School of CSIS?"
+                   "question":"This is the school that the Blue Colab is held.",
+                    "answer": "What is Seidenberg School of CSIS?"
                 },
                 {
                     "value": 500,
-                    "question": "This is the principal that The Blue Co-Lab is committed to",
+                    "question": "This is the principal that The Blue CoLab is committed to",
                     "answer": "What is, \"The human right to clean water requires the right-to-know their water is clean?\""
                 }
             ]
@@ -81,7 +81,7 @@
                 {
                     "value":400,
                    "question":"This water station was named after this 19th century mathematician who was named the first woman programmer.",
-                    "answer": "Who was Ada Lovelace"
+                    "answer": "Who was Ada Lovelace?"
                 },
                 {
                     "value": 500,

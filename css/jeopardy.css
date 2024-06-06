@@ -36,6 +36,7 @@
 	background-image: none;
 	border: none;
 	margin-bottom: 10px;
+	text-align: Center;
 
 
     display: table-cell;
@@ -45,7 +46,7 @@
 }
 
 .category-text {
-	font-size: 50px;
+	font-size: 40px;
 	font-family: Korinna;
 	font-weight: bold;
 
@@ -139,7 +140,7 @@ body {
 }
 
 #game-load-logo-img {
-	width: 80%;
+	width: 60%;
 	height: 80%;
 }
 
