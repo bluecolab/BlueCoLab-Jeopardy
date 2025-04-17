@@ -1,7 +1,9 @@
-Original poster All credit goes to this repository https://github.com/mvbattista/jeopardy
+# Blue CoLab Jeopardy
 
-Editted code, files, sounds and images to my own standards for the school needed project.
+Blue CoLab's version of \@mvbattista's Jeopardy. See the original repo [here](https://github.com/mvbattista/jeopardy). Please see the linked repo for a full list of contributors. 
 
-"# BlueCoLab-Jeopardy" 
-"# BlueCoLab-Jeopardy" 
-"# PACE UNIVERSITY Blue CoLab"
+## Change log (by Keathson @KeathsonLam)
+- Edited code, files, sounds and images to my own needs for the school needed project.
+
+## Suggested Extensions
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
