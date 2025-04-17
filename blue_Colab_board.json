@@ -5,7 +5,7 @@
             "questions": [
                 {
                     "value": 100,
-                    "question": "What is a safe pH level for drinking water?",
+                    "question": "The safe pH level for drinking water.",
                     "answer": "What is 7.0?"
                 },
                 {
@@ -20,13 +20,13 @@
                 },
                 {
                     "value": 400,
-                    "question": "This is the percentage of fresh water that covers the earth's surface",
+                    "question": "This is the percentage of fresh water that covers the earth's surface.",
                     "answer": "What is 71%?"
                 },
                 {
                     "value": 500,
-                    "question": "This is the name of the largest freshwater lake by surface area in the world?",
-                    "answer": "What is lake Superior?"
+                    "question": "This is the name of the largest freshwater lake by surface area in the world.",
+                    "answer": "What is Lake Superior?"
                 }
             ]
         },
@@ -45,12 +45,12 @@
                 },
                 {
                     "value": 300,
-                    "question": "This is the year that the Blue Co-Lab was found",
+                    "question": "This is the year that the Blue CoLab was found.",
                     "answer": "when was 2018?"
                 },
                 {
                     "value": 400,
-                    "question": "This is the school that the Blue Colab is held.",
+                    "question": "This is the school that the Blue CoLab is part of.",
                     "answer": "What is Seidenberg School of CSIS?"
                 },
                 {
@@ -75,18 +75,18 @@
                 },
                 {
                     "value": 300,
-                    "question": "This computer scientist who broke the Nazi enigma code is the namesake of one of our water monitoring systems in Choate Pond.",
+                    "question": "The computer scientist who broke the Nazi Enigma code is the namesake of one of our water monitoring systems in Choate Pond.",
                     "answer": "Who was Alan Turing?"
                 },
                 {
                     "value": 400,
-                    "question": "This water station was named after this 19th century mathematician who was named the first woman programmer.",
+                    "question": "The 19th century mathematician who was named the first programmer.",
                     "answer": "Who was Ada Lovelace?"
                 },
                 {
                     "value": 500,
-                    "question": "These are the two bodies of water that Choate Pond is connected to.",
-                    "answer": "What are the Ashokan Reservoir and the Catskill Aqueduct?"
+                    "question": "The river that Choate Pond flows into.",
+                    "answer": "What is the Pocantico River?"
                 }
             ]
         },
@@ -115,7 +115,7 @@
                 },
                 {
                     "value": 500,
-                    "question": "These 270 million years old shark was best-known for its circular, toothy saw",
+                    "question": "These 270 million years old shark was best-known for its circular, toothy saw.",
                     "answer": "What were Helicoprion?"
                 }
             ]
@@ -135,7 +135,7 @@
                 },
                 {
                     "value": 300,
-                    "question": "The Hudson River was the eastern outlet for this Canal.",
+                    "question": "The Hudson River is the eastern outlet for this Canal.",
                     "answer": "What is the Erie Canal?"
                 },
                 {
@@ -155,7 +155,7 @@
             "questions": [
                 {
                     "value": 100,
-                    "question": "This is the Agency that sets safety standards for Drinking water.",
+                    "question": "This is the agency that sets safety standards for drinking water.",
                     "answer": "What is the Environmental Protection Agency (EPA)?"
                 },
                 {
