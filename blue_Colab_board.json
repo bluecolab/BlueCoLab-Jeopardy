@@ -1,26 +1,26 @@
 {
-    "jeopardy":[
+    "jeopardy": [
         {
-            "name":"Water",
-            "questions":[
+            "name": "Water",
+            "questions": [
                 {
-                    "value":100,
-                   "question":"What is a safe pH level for drinking water?",
+                    "value": 100,
+                    "question": "What is a safe pH level for drinking water?",
                     "answer": "What is 7.0?"
                 },
                 {
-                    "value":200,
-                   "question":"This is the boiling point of water.",
+                    "value": 200,
+                    "question": "This is the boiling point of water.",
                     "answer": "What is 212° Fahrenheit?"
                 },
                 {
-                    "value":300,
-                   "question":"This is the percentage of Freshwater on planet Earth.",
+                    "value": 300,
+                    "question": "This is the percentage of Freshwater on planet Earth.",
                     "answer": "What is 3%?"
                 },
                 {
-                    "value":400,
-                   "question":"This is the percentage of fresh water that covers the earth's surface",
+                    "value": 400,
+                    "question": "This is the percentage of fresh water that covers the earth's surface",
                     "answer": "What is 71%?"
                 },
                 {
@@ -31,26 +31,26 @@
             ]
         },
         {
-            "name":"Blue CoLab",
-            "questions":[
+            "name": "Blue CoLab",
+            "questions": [
                 {
-                    "value":100,
-                   "question":"They are the founder of The Blue CoLab.",
+                    "value": 100,
+                    "question": "They are the founder of The Blue CoLab.",
                     "answer": "Who is Professor John Cronin?"
                 },
                 {
-                    "value":200,
-                   "question":"They are the Technical Operations Manager of The Blue CoLab",
+                    "value": 200,
+                    "question": "They are the Technical Operations Manager of The Blue CoLab",
                     "answer": "Who is Professor Leanne Keeley?"
                 },
                 {
-                    "value":300,
-                   "question":"This is the year that the Blue Co-Lab was found",
+                    "value": 300,
+                    "question": "This is the year that the Blue Co-Lab was found",
                     "answer": "when was 2018?"
                 },
                 {
-                    "value":400,
-                   "question":"This is the school that the Blue Colab is held.",
+                    "value": 400,
+                    "question": "This is the school that the Blue Colab is held.",
                     "answer": "What is Seidenberg School of CSIS?"
                 },
                 {
@@ -61,57 +61,56 @@
             ]
         },
         {
-            "name":"Choate Pond",
-            "questions":[
+            "name": "Choate Pond",
+            "questions": [
                 {
-                    "value":100,
-                   "question":"This university is home to Choate Pond.",
+                    "value": 100,
+                    "question": "This university is home to Choate Pond.",
                     "answer": "Where is Pace University - Pleasantville?"
                 },
                 {
-                    "value":200,
-                   "question":"This was the year that Choate Pond was rebuilt.",
+                    "value": 200,
+                    "question": "This was the year that Choate Pond was rebuilt.",
                     "answer": "When was 2017?"
                 },
                 {
-                    "value":300,
-                   "question":"This computer scientist who broke the Nazi enigma code is the namesake of one of our water monitoring systems in Choate Pond.",
+                    "value": 300,
+                    "question": "This computer scientist who broke the Nazi enigma code is the namesake of one of our water monitoring systems in Choate Pond.",
                     "answer": "Who was Alan Turing?"
                 },
                 {
-                    "value":400,
-                   "question":"This water station was named after this 19th century mathematician who was named the first woman programmer.",
+                    "value": 400,
+                    "question": "This water station was named after this 19th century mathematician who was named the first woman programmer.",
                     "answer": "Who was Ada Lovelace?"
                 },
                 {
                     "value": 500,
                     "question": "These are the two bodies of water that Choate Pond is connected to.",
                     "answer": "What are the Ashokan Reservoir and the Catskill Aqueduct?"
-                    
                 }
             ]
         },
         {
-            "name":"Marine Animals",
-            "questions":[
+            "name": "Marine Animals",
+            "questions": [
                 {
-                    "value":100,
-                   "question":"This is the world's largest predatory fish that is distinguished for its powerful jaws and triangular teeth.",
+                    "value": 100,
+                    "question": "This is the world's largest predatory fish that is distinguished for its powerful jaws and triangular teeth.",
                     "answer": "What is the Great White Shark?"
                 },
                 {
-                    "value":200,
-                   "question":"This type of whale is known for its white color and a distinctive \"melon\" on its head, which is used for echolocation.",
+                    "value": 200,
+                    "question": "This type of whale is known for its white color and a distinctive \"melon\" on its head, which is used for echolocation.",
                     "answer": "What are Beluga Whales?"
                 },
                 {
-                    "value":300,
-                   "question":"This blue colored fish has a long, sword-like upper jaw which they use to slash and stun fish, making them easier to catch",
+                    "value": 300,
+                    "question": "This blue colored fish has a long, sword-like upper jaw which they use to slash and stun fish, making them easier to catch",
                     "answer": "What are Marlins?"
                 },
                 {
-                    "value":400,
-                   "question":"These seals are named after their curved black patch on their backs which resembles a harp.",
+                    "value": 400,
+                    "question": "These seals are named after their curved black patch on their backs which resembles a harp.",
                     "answer": "What are Harp Seals?"
                 },
                 {
@@ -122,26 +121,26 @@
             ]
         },
         {
-            "name":"Hudson River",
-            "questions":[
+            "name": "Hudson River",
+            "questions": [
                 {
-                    "value":100,
-                   "question":"This is the length (in mles) of the Hudson River.",
+                    "value": 100,
+                    "question": "This is the length (in miles) of the Hudson River.",
                     "answer": "What is 315 miles?"
                 },
                 {
-                    "value":200,
-                   "question":"This is the source of the Hudson River.",
+                    "value": 200,
+                    "question": "This is the source of the Hudson River.",
                     "answer": "what is Lake Tear of Clouds (In the Adirondack Mountains), Upstate, New York?"
                 },
                 {
-                    "value":300,
-                   "question":"The Hudson River was the eastern outlet for this Canal.",
+                    "value": 300,
+                    "question": "The Hudson River was the eastern outlet for this Canal.",
                     "answer": "What is the Erie Canal?"
                 },
                 {
-                    "value":400,
-                   "question":"This is amount of fish species found in the Hudson River.",
+                    "value": 400,
+                    "question": "This is amount of fish species found in the Hudson River.",
                     "answer": "What is 220 species?"
                 },
                 {
@@ -152,26 +151,26 @@
             ]
         },
         {
-            "name":"Water Policies",
-            "questions":[
+            "name": "Water Policies",
+            "questions": [
                 {
-                    "value":100,
-                   "question":"This is the Agency that sets safety standards for Drinking water.",
+                    "value": 100,
+                    "question": "This is the Agency that sets safety standards for Drinking water.",
                     "answer": "What is the Environmental Protection Agency (EPA)?"
                 },
                 {
-                    "value":200,
-                   "question":"This is the date that all community public water suppliers are required to issue an Annual Water Report",
+                    "value": 200,
+                    "question": "This is the date that all community public water suppliers are required to issue an Annual Water Report",
                     "answer": "When is May 31st?"
                 },
                 {
-                    "value":300,
-                   "question":"This law was put in place to protect public health by regulating the quality of drinking water in the United States",
+                    "value": 300,
+                    "question": "This law was put in place to protect public health by regulating the quality of drinking water in the United States",
                     "answer": "What is the Safe Drinking Water Act (SDWA) of 1974?"
                 },
                 {
-                    "value":400,
-                   "question":"This is what the enforceable standard of the highest level of a contaminant allowed in drinking water is called.",
+                    "value": 400,
+                    "question": "This is what the enforceable standard of the highest level of a contaminant allowed in drinking water is called.",
                     "answer": "What is the Maximum Contaminant Level (MCL)?"
                 },
                 {
