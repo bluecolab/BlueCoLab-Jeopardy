@@ -10,7 +10,7 @@ $(function () {
         // openingTheme.play();
     }
     $('#game-load-input-button').click(function () {
-        var filePath = 'https://raw.githubusercontent.com/Lammy789/BlueCoLab-Jeopardy/main/blue_Colab_board.json';
+        var filePath = 'https://raw.githubusercontent.com/bluecolab/BlueCoLab-Jeopardy/main/blue_Colab_board.json';
     
         // Fetch the file content
         fetch(filePath)
