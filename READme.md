@@ -37,6 +37,7 @@ To update them download latest versions of their website and replace version in 
 - Upgraded frontend libraries:
   - Bootstrap to 5.3.8
   - jQuery to 4.0.0
+- Complete rework of directory structure
 
 #### Changed
 - Applied post-upgrade compatibility patches and small fixes.
